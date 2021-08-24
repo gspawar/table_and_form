@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "Name": "Krishna More",
+    "Age": "20",
+    "Location": "Nashik",
+    "Mobile": "8899776655"
+  },
+  {
+    "id": 2,
+    "Name": "Ganesh Pawar",
+    "Age": "23",
+    "Location": "Pune",
+    "Mobile": "9988009999"
+  },
+  {
+    "id": 3,
+    "Name": "Rohan Padvi",
+    "Age": "25",
+    "Location": "Mumbai",
+    "Mobile": "7888990088"
+  },
+  {
+    "id": 4,
+    "Name": "Shri S",
+    "Age": "27",
+    "Location": "Latur",
+    "Mobile": "9900990099"
+  },
+  {
+    "id": 5,
+    "Name": "Ram R",
+    "Age": "25",
+    "Location": "Pune",
+    "Mobile": "8877660000"
+  }
+]
